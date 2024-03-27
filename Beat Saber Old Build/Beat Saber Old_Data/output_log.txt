@@ -1,0 +1,60 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   NVIDIA
+    VRAM:     5980 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Márk\Downloads\Beat Saber Old Build\Beat Saber Old_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Márk\Downloads\Beat Saber Old Build\Beat Saber Old_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Márk\Downloads\Beat Saber Old Build\Beat Saber Old_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Márk\Downloads\Beat Saber Old Build\Beat Saber Old_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Márk\Downloads\Beat Saber Old Build\Beat Saber Old_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Márk\Downloads\Beat Saber Old Build\Beat Saber Old_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Márk\Downloads\Beat Saber Old Build\Beat Saber Old_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Márk\Downloads\Beat Saber Old Build\Beat Saber Old_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Márk\Downloads\Beat Saber Old Build\Beat Saber Old_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Márk\Downloads\Beat Saber Old Build\Beat Saber Old_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  1.870 seconds
+Platform assembly: C:\Users\Márk\Downloads\Beat Saber Old Build\Beat Saber Old_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Márk\Downloads\Beat Saber Old Build\Beat Saber Old_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+OpenVR initialized!
+ 
+(Filename:  Line: 353)
+
+UnloadTime: 1.194300 ms
+Connected to oculus:VRLINKHMDQUEST3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.415300 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 6582.
+Total: 1.025600 ms (FindLiveObjects: 0.311400 ms CreateObjectMapping: 0.037900 ms MarkObjects: 0.647300 ms  DeleteObjects: 0.028700 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.841800 ms
+
+Unloading 341 unused Assets to reduce memory usage. Loaded Objects now: 1549.
+Total: 2.416400 ms (FindLiveObjects: 0.070800 ms CreateObjectMapping: 0.018600 ms MarkObjects: 0.340800 ms  DeleteObjects: 1.985900 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.826100 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 6574.
+Total: 0.952200 ms (FindLiveObjects: 0.260200 ms CreateObjectMapping: 0.029900 ms MarkObjects: 0.641400 ms  DeleteObjects: 0.020200 ms)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 17ac -> priority: 1 
+  Thread -> id: 238c -> priority: 1 
+  Thread -> id: 2530 -> priority: 1 
+OpenVR Shutdown
+ 
+(Filename:  Line: 707)
+
